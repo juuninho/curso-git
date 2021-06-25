@@ -13,6 +13,9 @@ namespace ProjetoTesteGit
 
             Console.WriteLine("Ola Git!");
             Console.WriteLine("Segunda versão, Olá Marina!");
+
+            Console.WriteLine("Digite um numero de 0 a 10: ");
+            int x = int.Parse(Console.ReadLine());
             Console.ReadLine();
         }
     }
