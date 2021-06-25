@@ -1,0 +1,7 @@
+C:\Users\Paulo\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\ProjetoTesteGit.exe.config
+C:\Users\Paulo\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\ProjetoTesteGit.exe
+C:\Users\Paulo\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\ProjetoTesteGit.pdb
+C:\Users\Paulo\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\ProjetoTesteGit.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\ProjetoTesteGit.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\ProjetoTesteGit.exe
+C:\Users\Paulo\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\ProjetoTesteGit.pdb
